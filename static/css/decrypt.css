@@ -9,7 +9,7 @@ body {
 .heading {
     margin: 0 auto;
     padding: 20px 0px 30px 0px;
-    font-size: 4vw;
+    font-size: 2vw;
     font-weight: bold;
     color: white;
 	font-family: sans-serif;
@@ -17,7 +17,7 @@ body {
 
 .sub-heading {
     color: white;
-    font-size: 2vw;
+    font-size: 3vw;
     padding-bottom: 60px;
     background-color: transparent;
 }
