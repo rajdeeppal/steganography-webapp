@@ -1,1 +1,1 @@
-Uploaded files will be saved in this folder
+Uploaded images will be saved in this folder
